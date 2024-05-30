@@ -1,0 +1,36 @@
+body {
+   background-color: rgb(17, 65, 223);
+   display: grid;
+   place-items: center;
+   color: aliceblue;
+}
+.div1 {
+    border: solid ;#012169;
+    height: 400px;
+    width: 250px;
+    position: relative;
+    display: grid;
+    place-items: center;
+    top: 20px;
+    padding: 5px;
+} 
+#btn {
+    position: relative;
+}
+
+#show {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+ h2{
+    position: relative;
+    top: 10px;
+ }
+ .A {
+    position: relative;
+    left: 120px;
+    color: red;
+ }
+    
